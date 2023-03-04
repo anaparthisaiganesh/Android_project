@@ -27,9 +27,20 @@ public class BookItem {
     public String getItemPrice() {
         return itemPrice;
     }
-
+    
     public String getItemDate() {
         return itemDate;
     }
+    public int getImgaeId() {
+        return imgaeId;
+    }
+    
 
+<<<<<<< HEAD
+=======
+    public int getImgaeId() {
+        return imgaeId;
+    }
+
+>>>>>>> a70d7cfb34deb7a15750fc92be0d929e6fbe5b81
 }
