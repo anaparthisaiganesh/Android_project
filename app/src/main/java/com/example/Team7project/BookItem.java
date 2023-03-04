@@ -32,7 +32,4 @@ public class BookItem {
         return itemDate;
     }
 
-    public int getImgaeId() {
-        return imgaeId;
-    }
 }
