@@ -28,11 +28,4 @@ public class BookItem {
         return itemPrice;
     }
 
-    public String getItemDate() {
-        return itemDate;
-    }
-
-    public int getImgaeId() {
-        return imgaeId;
-    }
 }
